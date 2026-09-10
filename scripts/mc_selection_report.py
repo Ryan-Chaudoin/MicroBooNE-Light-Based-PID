@@ -1,8 +1,4 @@
-"""Generate MC selection and contamination summaries.
-
-Example:
-    python mc_selection_report.py data/simulated/sample --output reports/mc
-"""
+#Selection and contamination summaries
 
 from __future__ import annotations
 
